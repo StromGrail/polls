@@ -1,0 +1,11 @@
+li a {
+    color: white;
+    text-decoration: blink;
+    font-family: sans-serif;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+body {
+    background: url("http://don.indiatimes.com/images/indexdon.jpg") no-repeat ;
+}
